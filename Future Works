@@ -1,0 +1,9 @@
+1. Explore Fine-tuning BERT on Netflix specific data
+  - Train the BERT model primarily focused on Netflix descriptions and user-generated reviews to enhance sentiment classification accuracy.
+  - Can improve the model understanding on the context, sentiment, and entertainment-related expressions to the Netflix show description
+2. Use advanced ensemble learning such as weighted averaging
+  - It assigns a higher weight to models that are more accurate.
+  - More optimized sentiment classification can improve accuracy as it uses the best features from each model. 
+3. Adapting a domain to improve sentiment detection
+  - Train the model using real Netflix-specific slang and expressions and use domain adaptation techniques to adjust sentiment classifiers for streaming-related text.
+  - Model will have a better understanding of modern, informal, and entertainment-specific language.
